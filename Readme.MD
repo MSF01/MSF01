@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shayaan Farooq</h1>
 <h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sfo4" alt="sfo4" /></a> </p>
-
 - 🔭 I’m currently working on [Falculator](https://github.com/MSF01/Falculator)
 
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **anything tech related**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
