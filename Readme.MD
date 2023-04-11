@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Falculator](https://github.com/MSF01/Falculator)
 
-- 🌱 I’m currently learning **Flutter** <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+- 🌱 I’m currently learning **Flutter** <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
 
 - 💬 Ask me about **anything tech related**
 </p>
