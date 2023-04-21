@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shayaan Farooq</h1>
-<h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend & backend developer from 🇵🇰</h3>
 
 - 🔭 I’m currently working on [Falculator](https://github.com/MSF01/Falculator)
 
