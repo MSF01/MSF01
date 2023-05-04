@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayaan Farooq</h1>
 <h3 align="center">A passionate frontend & backend developer from 🇵🇰</h3>
 
-- 🔭 I’m currently working on [Falculator](https://github.com/MSF01/Falculator)
+- 🔭 I’m currently working on [Track Your Routine](https://github.com/MSF01/TYR)
 
 - 🌱 I’m currently learning **Flutter** <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
 
