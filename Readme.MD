@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shayaan</h1>
-<h3 align="center">A passionate frontend & backend developer 🇵🇰</h3>
+<h3 align="center">A passionate frontend & backend developer🇰</h3>
 
 - 🔭 I’m currently working on [Track Your Routine](https://github.com/MSF01/TYR)
 
