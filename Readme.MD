@@ -20,3 +20,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSF01/MSF01/output/github-contribution-grid-snake.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/MSF01/MSF01/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+![](https://komarev.com/ghpvc/?username=MSF01&style=for-the-badge)
